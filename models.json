@@ -115,7 +115,7 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_K_M.gguf"
     ],
     "sha256": "92da6238854f2fa902d8b2ad79d548536af1d3ab06821f323bd5bbcea2013276"
-  }
+  },
   {
     "name": "CodeLlama-13B-Python",
     "provider_url": "https://huggingface.co/TheBloke/CodeLlama-13B-Python-GGUF",
@@ -126,5 +126,16 @@
       "https://huggingface.co/TheBloke/CodeLlama-13B-Python-GGUF/resolve/main/codellama-13b-python.Q8_0.gguf",
     ],
     "sha256": "39556aa95d5ec1be46571ff91a69beb168761f9d3dbdd775007cd23879971963"
+  },
+  {
+    "name": "Stable-Code-3B",
+    "provider_url": "https://huggingface.co/TheBloke/stable-code-3b-GGUF",
+    "license_name": "STABILITY AI NON-COMMERCIAL RESEARCH COMMUNITY LICENSE",
+    "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "urls": [
+      "https://huggingface.co/TheBloke/stable-code-3b-GGUF/resolve/main/stable-code-3b.Q8_0.gguf"
+    ],
+    "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
   }
 ]
