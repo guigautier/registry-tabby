@@ -115,5 +115,16 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q4_K_M.gguf"
     ],
     "sha256": "92da6238854f2fa902d8b2ad79d548536af1d3ab06821f323bd5bbcea2013276"
+  },
+  {
+    "name": "CodeLlama-python-13B",
+    "provider_url": "https://huggingface.co/macadeliccc/CodeLlama-13b-Python-hf-GGUF",
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls": [
+      "https://huggingface.co/macadeliccc/CodeLlama-13b-Python-hf-GGUF/resolve/main/codellama-13b-python-hf.Q8_0.gguf",
+    ],
+    "sha256": "c160f8336e5ecedd1a4c10cc29f2f433229820ff9dcbb5156ec05b790bb80d25"
   }
 ]
