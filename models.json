@@ -126,5 +126,16 @@
       "https://huggingface.co/macadeliccc/CodeLlama-13b-Python-hf-GGUF/resolve/main/codellama-13b-python-hf.Q8_0.gguf",
     ],
     "sha256": "c160f8336e5ecedd1a4c10cc29f2f433229820ff9dcbb5156ec05b790bb80d25"
+  },
+  {
+    "name": "CodeLlama-34B-Python",
+    "provider_url": "https://huggingface.co/macadeliccc/CodeLlama-34b-Python-hf-GGUF",
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-34B-Python-GGUF/resolve/main/codellama-34b-python.Q8_0.gguf",
+    ],
+    "sha256": "853878963ea0827272f4d7502b3a9d4e9f75e192e684197705bc2795af119b3c"
   }
 ]
