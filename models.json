@@ -126,16 +126,5 @@
       "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF/resolve/main/deepseek-coder-33b-instruct.Q8_0.gguf"
     ],
     "sha256": "86529f8eefc87a80bd20d62229ee5acdc32d5773be8575a143bc491924865c21"
-  },
-  {
-    "name": "WaveCoder-Ultra-6.7B",
-    "license_name": "MIT",
-    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
-    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
-    "provider_url": "https://huggingface.co/microsoft/wavecoder-ultra-6.7b",
-    "urls": [
-      "https://huggingface.co/bartowski/wavecoder-ultra-6.7b-GGUF/blob/main/wavecoder-ultra-6.7b-Q8_0.gguf"
-    ],
-    "sha256": "80e7f652b59ce43aba120b3466cb472fc371647ba51c0a0b527eabf4fa3d1313"
   }
 ]
